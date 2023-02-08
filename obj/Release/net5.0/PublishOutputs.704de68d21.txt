@@ -1,0 +1,17 @@
+C:\Users\lucas\Desktop\Publicacao\SeparadordePDF.exe
+C:\Users\lucas\Desktop\Publicacao\x86\leptonica-1.80.0.dll
+C:\Users\lucas\Desktop\Publicacao\x86\tesseract41.dll
+C:\Users\lucas\Desktop\Publicacao\x64\leptonica-1.80.0.dll
+C:\Users\lucas\Desktop\Publicacao\x64\tesseract41.dll
+C:\Users\lucas\Desktop\Publicacao\SeparadordePDF.dll
+C:\Users\lucas\Desktop\Publicacao\SeparadordePDF.deps.json
+C:\Users\lucas\Desktop\Publicacao\SeparadordePDF.runtimeconfig.json
+C:\Users\lucas\Desktop\Publicacao\SeparadordePDF.pdb
+C:\Users\lucas\Desktop\Publicacao\BouncyCastle.Crypto.dll
+C:\Users\lucas\Desktop\Publicacao\Ghostscript.NET.dll
+C:\Users\lucas\Desktop\Publicacao\itextsharp.netstandard.dll
+C:\Users\lucas\Desktop\Publicacao\System.Security.Cryptography.Pkcs.dll
+C:\Users\lucas\Desktop\Publicacao\System.Security.Cryptography.Xml.dll
+C:\Users\lucas\Desktop\Publicacao\System.Security.Permissions.dll
+C:\Users\lucas\Desktop\Publicacao\Tesseract.dll
+C:\Users\lucas\Desktop\Publicacao\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
